@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PropertyBuying/static/css/main.2054564f.css",
+    "main.js": "/PropertyBuying/static/js/main.72f1697e.js",
+    "static/media/5.jpg": "/PropertyBuying/static/media/5.1e4b630f511699dd28cf.jpg",
+    "static/media/6.jpg": "/PropertyBuying/static/media/6.00a5f54fa6bef451d064.jpg",
+    "static/media/11.jpg": "/PropertyBuying/static/media/11.a981fe08be909e0e5b50.jpg",
+    "static/media/14.jpg": "/PropertyBuying/static/media/14.f8abdf7587ccfc68d226.jpg",
+    "static/media/15.jpg": "/PropertyBuying/static/media/15.c5a4dc5220a6417e30a6.jpg",
+    "static/media/20.jpg": "/PropertyBuying/static/media/20.094f0708a3ba6afdab29.jpg",
+    "static/media/16.jpg": "/PropertyBuying/static/media/16.c74bb8d344f49ea91f28.jpg",
+    "static/media/7.jpg": "/PropertyBuying/static/media/7.7b6b12c9039186a5d0c4.jpg",
+    "static/media/21.jpg": "/PropertyBuying/static/media/21.4f62ce9c0660297b8f2c.jpg",
+    "static/media/13.jpg": "/PropertyBuying/static/media/13.098982630b560679b138.jpg",
+    "static/media/17.jpg": "/PropertyBuying/static/media/17.b75ef44f730caf1e734e.jpg",
+    "static/media/9.jpg": "/PropertyBuying/static/media/9.5572b0da8c0462417850.jpg",
+    "static/media/1.jpg": "/PropertyBuying/static/media/1.9178c4122f977e724b76.jpg",
+    "static/media/12.jpg": "/PropertyBuying/static/media/12.e8228052b2eacf887bba.jpg",
+    "static/media/8.jpg": "/PropertyBuying/static/media/8.206004c52ce04eae6efd.jpg",
+    "static/media/10.jpg": "/PropertyBuying/static/media/10.c9ed5111de2374671dff.jpg",
+    "static/media/logo.svg": "/PropertyBuying/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PropertyBuying/index.html",
+    "main.2054564f.css.map": "/PropertyBuying/static/css/main.2054564f.css.map",
+    "main.72f1697e.js.map": "/PropertyBuying/static/js/main.72f1697e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2054564f.css",
+    "static/js/main.72f1697e.js"
+  ]
+}
