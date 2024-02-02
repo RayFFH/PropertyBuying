@@ -15,10 +15,10 @@ const Hero = () =>{
 
                     </div>
                     <div className='radio'>
-                        <input type='radio' checked/>
+                        {/* <input type='radio' checked/>
                         <label>Buy</label>
                         <input type='radio' checked/>
-                        <label>Rent</label>
+                        <label>Rent</label> */}
                         <button type='submit'><AiOutlineSearch className='icon'/></button>
                     </div>
                 </form>
